@@ -22,8 +22,6 @@ Adhering to these documented standards will enable us to collaborate smoothly, m
 
 Please direct any questions or comments to [hi@lo.agency](mailto:hi@lo.agency) as we continue improving our practices. Thank you in advance for following these methodologies in your valuable work!
 
-Here is an outline of the technology stacks for our different project types:
-
 ## Technology Stack Overviews
 
 ### Websites
@@ -65,8 +63,6 @@ Here is an outline of the technology stacks for our different project types:
     - React Native
 - Back-End
     - Same as Web Applications
-
-Here is an expanded draft of the Application Development Standards section:
 
 ## Application Development Standards
 
@@ -128,8 +124,6 @@ Engineers can self-assign tasks or add them to the backlog for later prioritizat
 *For a detailed overview of our entire task management process, please refer to the Task Management Guidelines section.*
 
 Having centralized issue tracking maintains visibility and aligns priorities across teams.
-
-Here is a draft of the Engineering Team Policies section:
 
 ### Code Review Procedures
 
@@ -237,8 +231,6 @@ Activities in each phase align to standard Agile ceremonies.
 We will cover the detailed guidelines, best practices, and step-by-step instructions for managing issues and tasks using Linear in the dedicated Task Management section.
 
 
-Here is a draft of the Source Control Procedures:
-
 ### Source Control Procedures 
 
 We utilize Git for version control and source code management. Our branch methodology enables organized collaboration.  
@@ -272,8 +264,6 @@ This keeps `next` integratable with the latest changes.
 - `next`: Development branch integrating branches
 
 Code moves from `next` to `uat` to `main` through pull requests, automating builds and tests.
-
-Here is a draft Continuous Integration & Delivery section:
 
 ### Continuous Integration & Delivery
 
