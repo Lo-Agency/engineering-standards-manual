@@ -3,6 +3,8 @@ Version: 0.1
 
 Last modified: Dec 26, 2023
 
+Welcome to the Software Development & Technology Handbook for our engineering team. The purpose of this handbook is to outline the standards, policies, processes, and guidelines followed across all software projects in our organization.
+
 ## Chapters
 - [Introduction](introduction.md)
 - [Technology Stack Overviews](technology-stack-overviews.md)
