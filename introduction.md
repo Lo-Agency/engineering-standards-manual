@@ -1,7 +1,5 @@
 # Introduction
 
-Welcome to the Software Development & Technology Handbook for our engineering team. The purpose of this handbook is to outline the standards, policies, processes, and guidelines followed across all software projects in our organization.
-
 Having clear, well-documented development practices is essential for building high-quality products efficiently at scale. This handbook establishes these common methodologies for our technology teams to promote consistency and best practices in our approach to software engineering.
 
 The contents covered in this guide include:
