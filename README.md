@@ -1,7 +1,7 @@
 # Engineering Standards Manual
 Version: 0.1
 
-Last modified: Dec 11, 2023
+Last modified: Dec 26, 2023
 
 ## Chapters
 - [Introduction](introduction.md)
